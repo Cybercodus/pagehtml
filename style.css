@@ -1,0 +1,17 @@
+body {
+	background-color: white;
+	font-size: 100%;
+	margin left: 10%;
+	margin-right: 10%;
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+	padding-left: 10%;
+}
+
+p  {
+	color: black;
+}
+
